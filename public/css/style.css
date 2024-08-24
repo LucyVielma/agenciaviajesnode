@@ -6,7 +6,7 @@
 body {
     font-family: 'Open Sans', sans-serif;
 }
-h1, h2, h3 {
+h1, h2 {
     font-family: 'Active', cursive;
     color: #00006a;
 }
@@ -17,7 +17,9 @@ h2 {
     font-size: 2.4rem;
 }
 h3 {
+    font-family: 'Active', cursive;
     font-size: 3rem;
+    color: #afe4ff;
 }
 
 .btn-success {
